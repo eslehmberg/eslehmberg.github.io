@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-Canada"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Emma Lehmberg"
 title_separator          : "-"
 name                     : &name "Emma Lehmberg"
