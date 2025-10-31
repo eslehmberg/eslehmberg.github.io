@@ -2,13 +2,12 @@
 permalink: /
 title: "About"
 author_profile: true
-author_profile: true
 ---
 
 # Your Name
 
 Dr. Emma Lehmberg (she/her)
-IISD Experimental Lakes Area, 
+IISD Experimental Lakes Area 
 Department of Biology, Lakehead University
 [email@example.com](mailto:email@example.com)
 
