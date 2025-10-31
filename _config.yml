@@ -24,13 +24,13 @@ repository               : "eslehmberg/eslehmberg3.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Emma Lehmberg, PhD"
+  pronouns         : "she/her"  
+  bio              : "Mitacs Elevate Postdoctoral Fellow"
+  location         : #"Earth"
+  employer         : "IISD Experimental Lakes Area and Lakehead University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "elehmber@lakeheadu.ca" 
 
   # Academic websites
   academia         : # URL
