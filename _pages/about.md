@@ -1,10 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
+
+# Your Name
+
+Dr. Emma Lehmberg (she/her)
+IISD Experimental Lakes Area, 
+Department of Biology, Lakehead University
+[email@example.com](mailto:email@example.com)
+
+## About Me
+
+Your biography and introduction text goes here. You can write multiple paragraphs about your research interests, background, etc.
+
+![Your Alt Text](/assets/images/your-photo.jpg){: .align-right width="300px"}
+
+More text that will wrap around your image...
+
+## Research Interests
+
+- Interest 1
+- Interest 2  
+- Interest 3
+
+## News
+
+- [Date]: News item 1
+- [Date]: News item 2
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
