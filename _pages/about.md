@@ -13,7 +13,7 @@ Department of Biology, Lakehead University
 
 ## About Me
 
-Your biography and introduction text goes here. You can write multiple paragraphs about your research interests, background, etc.
+
 
 ![Your Alt Text](/assets/images/your-photo.jpg){: .align-right width="300px"}
 
